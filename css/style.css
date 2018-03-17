@@ -1,0 +1,19 @@
+body{
+    background-color:white;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#info{
+    height: 100%;
+    width: 25%;
+}
+
+#histoire{
+    margin-left: 25%;
+}
+
